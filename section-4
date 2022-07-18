@@ -5,3 +5,16 @@ IAM - Password Policy-
           *incl uppercase letter/lowercase letter/number /alphanumeric.
       * Allow all IAM user to change their own passowrds.
       * Prevent passoword reuse.
+
+**Multi Factor Authentication -MFA**
+---Users have access to the account and they can change the configurations or delete resources.
+---So we need to protect our **Root Accounts** and **IAM users**.
+---MFA = Pass + security device you own.
+---Its benefit is that even if password is stolen or hacked ,the account is not compromised.
+**MFA Devices options in AWS**
+--Virtual MFA device .eg Google Authenticator(phone only) and Authy (multi-device).
+--Universal 2nd factor security key. eg. YubiKey.
+
+**AWS CLOUDSHELL**
+  -- ls : this command list out all the files in your cloud shell.
+  -- echo "test" > demo.txt : This will create a txt file which contains data "test". 
