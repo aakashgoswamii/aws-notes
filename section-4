@@ -1,0 +1,7 @@
+IAM - Password Policy-
+   * In aws we can setup password policy.
+      *Set a minimum password length.
+      *Require specific character types.
+          *incl uppercase letter/lowercase letter/number /alphanumeric.
+      * Allow all IAM user to change their own passowrds.
+      * Prevent passoword reuse.
