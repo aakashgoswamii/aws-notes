@@ -1,0 +1,9 @@
+EC2 is one of the most popular of AWS offering.
+EC2 = Elastic Compute Cloud = Infrastructure as a Service.
+It mainly consist in the capability of:
+  * Renting virtual machines.
+  * Storing data on virtual drives.
+  * Distributing load across machines.
+  * Scaling the services using an auto-scaling group.
+Knowing EC2 is a fundamental to understand how the cloud works.
+ 
